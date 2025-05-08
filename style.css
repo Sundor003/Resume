@@ -12,14 +12,14 @@ body {
     margin: 20px auto;
     background: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    border: 10px solid  #6a0dad;
+    border: 10px solid  #499edf;
     border-radius: 10px;
 
 }
 
 .left-panel {
     width: 35%;
-    background: #6a0dad;
+    background: #6496e6;
     color: white;
     padding: 20px;
     text-align: center;
@@ -61,7 +61,7 @@ h2 {
 
 .skills span {
     display: inline-block;
-    background: #6a0dad;
+    background: #4a89db;
     color: white;
     padding: 5px 10px;
     border-radius: 5px;
